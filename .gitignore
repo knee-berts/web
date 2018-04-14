@@ -2,8 +2,6 @@
 brig-proj-heroes.yaml
 .DS_Store
 **/.DS_Store
-.vscode
-**/.vscode
 # Logs
 logs
 *.log

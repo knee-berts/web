@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Kubernetes and MS sitting in trees
+        Kubernetes is all up on Azure
       </div>
       <div class="col-lg-6">
       </div>

@@ -1,0 +1,10 @@
+[environments]
+  [environments.development]
+    name = "web"
+    namespace = "default"
+    wait = false
+    watch = false
+    watch-delay = 2
+    auto-connect = false
+    override-ports = ["8080:8080"]
+
